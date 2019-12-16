@@ -4,7 +4,7 @@
         <name>terms</name>
         <url>http://history.state.gov/ns/apps/terms</url>
         <title>Terms</title>
-        <version>0.3</version>
+        <version>0.4</version>
     </app>
     <trigger>
         <provider-url>
